@@ -4,9 +4,9 @@
 
 # Movy
 
-**Mobilidade urbana e delivery em uma só plataforma.**
+**Mobilidade urbana sob demanda.**
 
-Apps para passageiros e motoristas, central de despacho, monitoramento de frota em tempo real e delivery para estabelecimentos.
+Apps para passageiros e motoristas, central de despacho e monitoramento de frota em tempo real.
 
 </div>
 
@@ -17,7 +17,6 @@ Apps para passageiros e motoristas, central de despacho, monitoramento de frota 
 - **Mobilidade urbana**: corridas sob demanda com rastreamento em tempo real
 - **Central de despacho**: operadores criam e despacham corridas manualmente
 - **Monitoramento de frota**: mapa ao vivo, relatórios e gestão de cooperados
-- **Delivery**: pedidos, cardápio e acompanhamento de entrega em tempo real
 
 ### Stack
 
@@ -28,7 +27,6 @@ Apps para passageiros e motoristas, central de despacho, monitoramento de frota 
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
